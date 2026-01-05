@@ -48,19 +48,6 @@ O projeto foi desenvolvido utilizando tecnologias fundamentais da web, garantind
 -   **Links Sociais**: Integração direta com LinkedIn, Instagram e GitHub no rodapé.
 -   **Design Responsivo**: Adaptável para desktop, tablets e mobile.
 
-## 📂 Estrutura de Pastas (Sugestão)
-
-```bash
-/
-├── index.html        # Estrutura principal
-├── css/
-│   ├── style.css     # Estilos globais e componentes
-│   └── responsive.css # Media queries
-├── js/
-│   └── script.js     # Lógica do menu e formulários
-└── assets/
-    └── img/          # Imagens dos projetos e ícones
-
 
 ⚡ Como Rodar o Projeto
 Como o projeto é estático (apenas Front-end), você pode rodá-lo facilmente de duas formas:
@@ -98,3 +85,19 @@ Se você gostou desse projeto ou quer trocar uma ideia sobre desenvolvimento web
 3.  **Avatar:** Se você tiver o link da sua foto de perfil do GitHub, substitua o link na seção "Contato e Autor" para aparecer sua foto automaticamente.
 
 Ficou como você imaginava? Se quiser adicionar algo específico sobre a parte de "IA aplicada ao Design" que vi no vídeo, é só falar\!
+
+
+## 📂 Estrutura de Pastas (Sugestão)
+
+```bash
+/
+├── index.html        # Estrutura principal
+├── css/
+│   ├── style.css     # Estilos globais e componentes
+│   └── responsive.css # Media queries
+├── js/
+│   └── script.js     # Lógica do menu e formulários
+└── assets/
+    └── img/          # Imagens dos projetos e ícones
+
+
