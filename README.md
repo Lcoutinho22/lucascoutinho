@@ -61,7 +61,7 @@ Clique com o botão direito no index.html e selecione "Open with Live Server".
 
 Opção 2: Abrir diretamente
 Clone este repositório:
-git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/seu-usuario/nome-do-repo.git)
+git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/Lcoutinho22/lucascoutinho.git)
 
 Navegue até a pasta do projeto.
 
@@ -76,16 +76,6 @@ Lucas Coutinho Desenvolvimento Web Estratégico
 Se você gostou desse projeto ou quer trocar uma ideia sobre desenvolvimento web e IA:
 
 <p align="center"> Feito com 💚 por Lucas Coutinho © 2025 </p>
-
-
-### 💡 O que você precisa ajustar agora:
-
-1.  **Imagens:** Tire um *print* bonito do site (como o que aparece no início do vídeo) e salve na pasta do seu projeto. No README, onde diz `src="./assets/preview.png"`, coloque o caminho correto.
-2.  **Links:** Onde está escrito `seu-usuario/nome-do-repo` ou `seu-linkedin`, substitua pelos seus links reais.
-3.  **Avatar:** Se você tiver o link da sua foto de perfil do GitHub, substitua o link na seção "Contato e Autor" para aparecer sua foto automaticamente.
-
-Ficou como você imaginava? Se quiser adicionar algo específico sobre a parte de "IA aplicada ao Design" que vi no vídeo, é só falar\!
-
 
 ## 📂 Estrutura de Pastas (Sugestão)
 
